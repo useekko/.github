@@ -12,14 +12,19 @@ already have open. No new messenger, and nobody to talk into switching.
 
 **Status: public alpha. The code is here.** It works, we use it daily, and it has
 rough edges — that's what building in public looks like. Install it, read every line
-of it, break it, and tell us. The first Chrome Web Store version is in review right
-now; TestFlight for the iOS app is next.
+of it, break it, and tell us.
+
+## Latest version
+
+[**Install Ekko v0.8.0 from the Chrome Web Store →**](https://chromewebstore.google.com/detail/ekko/oaihgpmbkeafbpbjbnfjpcaeheickfmf)
+
+TestFlight for the iOS app is next.
 
 ## What we are building
 
 | Surface | What it does | Status |
 |---|---|---|
-| **Browser extension** | Seals and opens messages in the page, inside Instagram, WhatsApp Web, Telegram Web and Messenger. | **Public alpha** — install from a [release](https://github.com/useekko/ekko-core/releases) or the nightly |
+| **Browser extension** | Seals and opens messages in the page, inside Instagram, WhatsApp Web, Telegram Web and Messenger. | **Public alpha** — [install v0.8.0 from the Chrome Web Store](https://chromewebstore.google.com/detail/ekko/oaihgpmbkeafbpbjbnfjpcaeheickfmf), or build from a [release](https://github.com/useekko/ekko-core/releases) |
 | **Directory** | Maps @handles to public keys so people can find each other. Optional: skip it and trade invites by hand, or **self-host it**. | **Open source (AGPL), running** |
 | **iOS app** | Your identity on the phone: recovery phrase, contacts, safety numbers, your @handle. | Code public, TestFlight next |
 | **iOS keyboard** | Ekko's own keyboard, so encryption reaches inside the *native* messenger apps, not only the web ones. | Code public, TestFlight next |
@@ -44,6 +49,7 @@ browser and on the phone, so a message sealed in Chrome opens on iOS, and the re
 
 ## Links
 
+- Chrome: [Install Ekko v0.8.0](https://chromewebstore.google.com/detail/ekko/oaihgpmbkeafbpbjbnfjpcaeheickfmf)
 - Site + newsletter: [useekko.app](https://useekko.app)
 - X: [@useekko](https://x.com/useekko)
 - Discord: [discord.gg/cQytJjVdxu](https://discord.gg/cQytJjVdxu)
